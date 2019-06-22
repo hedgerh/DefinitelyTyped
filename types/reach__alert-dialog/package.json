@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "dependencies": {
+        "@reach/dialog": "^0.2.8"
+    }
+}
